@@ -1,0 +1,1 @@
+genhtml coverage/lcov.info -o coverage/html --legend -t 'Clean Architecture by Zen' --function-coverage
